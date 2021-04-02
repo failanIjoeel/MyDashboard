@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyDashboard</string>
+    <string name="hello_text">Hi, Joel!</string>
+    <string name="have_a_nice_day">Have a Nice Day!</string>
+    <string name="todo">TODO</string>
+    <string name="my_task">My Task</string>
+    <string name="projects">Projects</string>
+    <string name="notes">Notes</string>
+    <string name="tasks">Tasks</string>
+    <string name="tugas_1">TUGAS 1</string>
+    <string name="learn_kotlin_fundamental">Learn Kotlin Fundamental</string>
+    <string name="tugas_2">TUGAS 2</string>
+    <string name="website_design">Website Design</string>
+    <string name="projects_dashboard">Projects Dashboard</string>
+    <string name="create_kotlin_mobile_apps">Create Kotlin Mobile Apps</string>
+    <string name="website_portfolio">Website Portfolio</string>
+    <string name="front_end_development">Front End Development</string>
+    <string name="view">View</string>
+</resources>
